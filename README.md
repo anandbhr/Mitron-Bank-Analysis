@@ -4,7 +4,7 @@
 Mitron Bank is a legacy financial institution headquartered in Hyderabad. They want to introduce a new line of credit cards, aiming to broaden its product offerings and reach in the financial market.
 The objective is to analyze this data and provide actionable, data-driven recommendations to guide Mitron Bank in tailoring the new credit cards to customer needs and market trends. 
 
-## Problem Statment   
+## Problem Statement   
 
  * Demographic classification: Classify the customers based on available demography such as age group, gender, occupation etc. and provide insights based on them.
    
